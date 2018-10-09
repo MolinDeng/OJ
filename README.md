@@ -62,3 +62,6 @@
 * 边读边操作 T=O(N)
 * 注意一下等于号也是满足ZZ条件的哦
 
+#### 滴滴好难呀
+
+https://www.geeksforgeeks.org/ways-to-arrange-balls-such-that-adjacent-balls-are-of-different-types/
